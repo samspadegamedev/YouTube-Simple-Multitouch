@@ -14,7 +14,7 @@
   "duration": 0.021485,
   "parent": {
     "name": "Sound",
-    "path": "folders/Sound.yy",
+    "path": "folders/Art and Sound/Sound.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_button_click",

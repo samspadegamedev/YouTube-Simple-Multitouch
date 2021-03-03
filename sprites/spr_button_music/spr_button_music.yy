@@ -73,7 +73,7 @@
   ],
   "parent": {
     "name": "Art",
-    "path": "folders/Art.yy",
+    "path": "folders/Art and Sound/Art.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_button_music",
