@@ -19,6 +19,7 @@ if (my_touch == -1) {
 	if (device_mouse_check_button_released(my_touch, mb_any)) {
 		my_touch = -1;
 		image_index = 0;
+		audio_play_sound(snd_button_click, 1, false);
 	}
 	
 
